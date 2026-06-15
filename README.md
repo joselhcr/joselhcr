@@ -12,6 +12,21 @@
 </p>
 
 
+## 📊 Profile Statistics
+
+ <div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=joselhcr&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&rank_icon=percentile)
+
+</div>
+ 
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselhcr&theme=radical)
+  
+
 ### 📊 Most Used Language
 
  <div align=center>
