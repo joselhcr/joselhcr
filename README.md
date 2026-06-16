@@ -7,7 +7,40 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Programming+Student+@TEC;Frontend+Developer;React+%26+TypeScript+Enthusiast;Python+Developer;Building+with+Supabase;Always+learning+new+things"></a>
 </p>
 
-## 
+---
+
+### 🚀About me
+<p align="center">I am a Computer Engineering student at Tecnológico de Costa Rica with a passion for building things, solving problems through programming, and continuously learning and creating through technology.
+</p>
+
+
+### 📬Connect with Me
+> You can always contact me through any of the following options.
+<div align="center">
+
+<a href="mailto:josealhcr@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joselhcr/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/joselh">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+</div>
+
+### 🧰Tech Stack
+> Technologies I've worked with and have knowledge in.
+> 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,ts,js,supabase,github,postman,git,vscode" />
+
+</div>
+
+---
 
 ### Stats
 <div align="center">
@@ -18,7 +51,7 @@
 
 </div>
 
-## 
+---
 
 ### Github Profile Summary Card
 <div align=center>
@@ -26,7 +59,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joselhcr&theme=radical)
 </div>
 
-##
+---
 
 ### Activity Graph
 <div align="center">
